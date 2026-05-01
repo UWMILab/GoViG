@@ -196,10 +196,13 @@ More examples of GoViG results on the **Real-world** Subset of our **R2R-Goal** 
 
 If you find this repository or our paper useful, please consider **starring** this repository and **citing** our paper:
 ```bibtex
-@article{wu2025govig,
-  title={GoViG: Goal-Conditioned Visual Navigation Instruction Generation},
-  author={Wu, Fengyi and Dong, Yifei and Cheng, Zhi-Qi and Dai, Yilong and Chen, Guangyu and Wang, Hang and Dai, Qi and Hauptmann, Alexander G},
-  journal={arXiv preprint arXiv:2508.09547},
-  year={2025}
+@misc{wu2026goviggoalconditionedvisualnavigation,
+      title={GoViG: Goal-Conditioned Visual Navigation Instruction Generation via Multimodal Reasoning}, 
+      author={Fengyi Wu and Yifei Dong and Yilong Dai and Guangyu Chen and Qifeng Wu and Huiting Huang and Hang Wang and Qi Dai and Alexander G. Hauptmann and Zhi-Qi Cheng},
+      year={2026},
+      eprint={2508.09547},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.09547}, 
 }
 ```
