@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 
-<h1 align="center"><strong>[ACL 2026 Findings]🧭 GoViG: Goal-Conditioned Visual Navigation Instruction Generation via Multimodal Reasoning</strong></h1>
+<h1 align="center"><strong>[ACL 2026 Findings]🧭GoViG: Goal-Conditioned Visual Navigation Instruction Generation via Multimodal Reasoning</strong></h1>
   <p align="center"><span><a href=""></a></span>
               <a>Fengyi Wu<sup>1,*</sup>,</a>
              <a>Yifei Dong<sup>1,*</sup>,</a>
